@@ -1,8 +1,8 @@
 # x86-64 Bootloader (Directly to Long Mode)
 
-This bootloader will boot a kernel into long mode, and everything in a 512 Bytes executable
+This bootloader will boot a kernel into long mode, and everything in a 512 Bytes binary
 
-## Building Executable
+## Building Binaries
 
 The assembler used  to generate the binary is the Netwide Assemble [nasm](https://www.nasm.us/)
 
